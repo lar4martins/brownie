@@ -1,0 +1,16 @@
+boby{
+    font-family: "Pacifico", cursive;
+    background: rgb(255, 0, 212);
+    color: rgb(255, 127, 127);
+    margin-bottom: 100px;
+}
+header{
+    color: rgb(31, 236, 226);
+     border-bottom: 3px solid ;
+     font-size: 32px;
+}
+.chamada{
+    background: white
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
