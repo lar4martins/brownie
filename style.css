@@ -14,3 +14,31 @@ header{
     margin-top: 80px;
     margin-bottom: 80px;
 }
+.chamada{
+    background: purple;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+.categoria-videos img{
+    height: 200px;
+    opacity: 0.5;
+}
+.categoria-videos ing:hover{
+    opacity: 1.0;
+    border: 3px solid palevioletred;
+}
